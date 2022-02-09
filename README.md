@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on github,LinkedIn
 - 💬 Ask me about MERN stack
-- 📫 How to reach me: https://www.linkedin.com/in/nitesh-hebbare/
+- 📫 How to reach me: [@niteshHebbare](https://www.linkedin.com/in/nitesh-hebbare/)
 - 😄 Pronouns: He/His
 
