@@ -1,4 +1,4 @@
-### Hi I'm Nitesh! 👋
+### Hi, I'm Nitesh! 👋
 
 - 🔭 I’m currently working at Accenture as a Full Stack Developer
 - 🌱 I’m currently learning React.js
