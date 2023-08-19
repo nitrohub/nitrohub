@@ -1,6 +1,6 @@
 ### Hi, I'm Nitesh! 👋
-
-- 🔭 I’m currently working at Accenture as a Full Stack Developer
+- 🎓 Pursuing postgrad currently
+- 🔭 Worked at Accenture as a Full Stack Senior Engineering Analyst for almost 3 years
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on github,LinkedIn
 - 📫 How to reach me: [@niteshHebbare](https://www.linkedin.com/in/nitesh-hebbare/)
